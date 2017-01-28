@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 strgfsxhhh
-
+gfhjfkjgvgkj
 dcjfcjvcv
 
 3qreazdesznirosha2 1  siri
@@ -8,3 +9,8 @@ ridevi vishnu
 jyothi
 abc
 def
+=======
+nirosha2 1  siri
+sridevi
+jenkins build
+>>>>>>> 9e4d912d110f0cb90605ecabcb14ab643e86967e
